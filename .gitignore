@@ -1,0 +1,6 @@
+.idea
+*.iml
+*.xml
+/out
+
+# this is how we can comment in the text file
